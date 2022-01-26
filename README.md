@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @athinodwros
-- 👀 I’m interested in learning a lot of things about iOS Development
-- 🌱 I’m currently learning how to create aweosome UI through code
+- 👋 Hi, I’m @athensgift (Athinodoros)
+- 👀 I'm eager to learn as much as I can about iOS development.
+- 🌱 I’m currently learning how to create aweosome swiftUI and combine code
 - 💞️ I’m looking to collaborate on iOS projects
 - 📫 How to reach me? -> athinodoros.fafoutis@gmail.com <-
 
